@@ -1,1 +1,1 @@
-To test gerrit github replication
+To test gerrit github replication - first commit
