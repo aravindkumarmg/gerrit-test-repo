@@ -4,7 +4,7 @@ pipeline {
         stage('Example') {
             steps {
                 gerritReview labels: [Verified: 0]
-                echo 'Hello World'
+                echo 'Hello World !!!'
             }
         }
     }
